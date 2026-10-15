@@ -1,55 +1,53 @@
-# 🐍 Python Practice Repository
+# 🐍 Python Learning
 
-This repository contains my **Python learning journey**, including basics, OOP concepts, and small projects.
+> ✍️ Created by **Mohammed Samara**
+
+![Python](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
+
+My **Python learning journey**: the basics, OOP concepts, and small projects.
 
 ---
 
 ## 📂 Project Structure
 
-### 🧠 Basics
-Covers fundamental Python concepts:
+### 🧠 Basics — [`basics/`](basics)
 
-- Variables & Data Types  
-- Operators  
-- Conditions  
-- Loops  
-- Functions  
-- Input / Output  
-- Files & Exceptions  
-- Modules  
-- Dates  
-- Advanced topics  
+- Variables & data types
+- Operators
+- Conditions
+- Loops
+- Functions
+- Input / Output
+- Files & exceptions
+- Modules
+- Dates
+- Advanced topics: scope, access modifiers, advanced lists and sequences, sync vs async
 
----
+### 🧩 OOP — [`oop/`](oop)
 
-### 🧩 OOP
-Object-Oriented Programming concepts:
+- Classes & objects
+- Inheritance
+- Polymorphism
 
-- Classes & Objects  
-- Inheritance  
-- Polymorphism  
+### 🚀 Projects — [`projects/`](projects)
 
----
+- Phone Directory System
+- People Info System
 
-### 🚀 Projects
-Simple practical projects:
+### 🔧 Mini Projects — [`mini-projects/`](mini-projects) and [`basics/mini/`](basics/mini)
 
-- Phone Directory System  
-- People Info System  
-
----
-
-### 🔧 Mini Projects
-Small applications:
-
-- Bike Store System  
+- Bike Store System
+- Calculator
+- Guess Game
+- Even / Odd Checker
 
 ---
 
 ## ▶️ How to Run
 
-1. Open the project in any IDE (VS Code, PyCharm, etc.)
-2. Run any file using:
+1. Install [Python 3](https://www.python.org/downloads/)
+2. Run any file:
 
 ```bash
-python file_name.py
+python projects/phone_directory.py
+```
