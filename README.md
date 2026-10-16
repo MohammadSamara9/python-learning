@@ -8,6 +8,13 @@ My **Python learning journey**: the basics, OOP concepts, and small projects.
 
 ---
 
+## 🎓 Certificate
+
+**Python Programming: Python Bootcamp For Beginners**, Udemy (Sep 2026):
+[PDF](certificates/udemy-python-bootcamp.pdf) · [Verify](https://ude.my/UC-9c0e5aca-caa0-4783-a99a-4b30d90af734)
+
+---
+
 ## 📂 Project Structure
 
 ### 🧠 Basics — [`basics/`](basics)
